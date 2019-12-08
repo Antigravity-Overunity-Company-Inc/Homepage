@@ -1,23 +1,5 @@
 *{
     font-family: "Lucida Console", Monaco, monospace;
-    text-align: center;
-    margin:5px;
-    box-sizing: border-box;
-}
-body{
-    margin:0;
-    display:inline;
-    text-align:center;
-    position:static;
-}
-body *{
-    margin-left:auto;
-    margin-right:auto;
-    padding-left:auto;
-    padding-right:auto;
-    float:none;
-    text-align:center;
-    max-width:319px;
 }
 h1{
     font-size: 16px;
